@@ -1,3 +1,44 @@
 <resources>
-    <string name="app_name">MyMvvm</string>
+    <string name="app_name">KusdomV2</string>
+    <string name="signin">登錄</string>
+    <!--Not a member ? Sign up now.-->
+    <string name="label_signup_text_dark">無註冊Kusdom會員 ？&#160;</string>
+    <string name="label_signup_text_light">立即註冊</string>
+
+    <!--会员登录「 Label 」-->
+    <string name="label_email_account_signin">會員電郵</string>
+    <string name="label_password_account_signin">會員密碼</string>
+    <string name="label_othermethod_account_signin">其他登入方式</string>
+
+    <!--会员登录「 Hint 」-->
+    <string name="hint_email_account_signin">填寫電郵</string>
+    <string name="hint_password_account_signin">填寫密碼</string>
+
+    <!--会员注册「 Label 」-->
+    <string name="label_email_account_register">會員電郵</string>
+    <string name="label_verfiy_email_account_register">確認電郵</string>
+    <string name="label_password_account_register">會員密碼</string>
+    <string name="label_password_confirm_account_register">確認密碼</string>
+    <string name="label_first_name_account_register">會員姓氏</string>
+    <string name="label_last_name_email_account_register">會員姓名</string>
+    <string name="label_privacy_policy_account_register">我已預讀并同意相關條款</string>
+
+    <!--会员注册「 Hint 」-->
+    <string name="hint_email_account_register">填寫電郵</string>
+    <string name="hint_verfiy_email_account_register">填寫確認電郵</string>
+    <string name="hint_password_account_register">填寫密碼</string>
+    <string name="hint_password_confirm_account_register">填寫確認密碼</string>
+    <string name="hint_first_account_register">填寫姓氏</string>
+    <string name="hint_last_name_account_register">填寫姓名</string>
+    <string name="btn_continue_account_register">確認註冊</string>
+
+    <!--会员注册「 Toast 」-->
+    <string name="toast_empty_email_account_register">請填寫電郵</string>
+    <string name="toast_empty_verfiyemail_account_register">請填寫確認電郵</string>
+    <string name="toast_empty_password_register">請填寫密碼</string>
+    <string name="toast_empty_verfiypassword_account_register">請填寫確認密碼</string>
+    <string name="toast_empty_firstname_account_register">請填寫會員姓氏</string>
+    <string name="toast_empty_lastname_account_register">請填寫會員姓名</string>
+    <string name="toast_nomatching_email_account_register">電郵和確認電郵不一致</string>
+    <string name="toast_nomatching_password_account_register">密碼和確認密碼不一致</string>
 </resources>
